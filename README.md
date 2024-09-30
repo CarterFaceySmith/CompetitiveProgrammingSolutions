@@ -3,11 +3,11 @@
 <p align="center"><i>A collection of my solutions to competitive coding problems across various platforms.</i></p>
 
 ### Stats 
-Last updated: 21/9/24
+Last updated: 30/9/24
 
 - Current Rank: Unrated
 - Peak Rank: Unrated
-- Problems Solved: ~11
+- Problems Solved: ~16
 
 ### Profiles
 - AtCoder Profile: [Librarian_](https://atcoder.jp/users/Librarian_)
